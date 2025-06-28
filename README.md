@@ -72,6 +72,11 @@ A comprehensive blood test analysis system built with CrewAI and FastAPI that ca
 - OpenAI API key
 - Conda or virtual environment (recommended)
 
+ ### Screenshots
+ 
+
+
+
 ### **Installation**
 
 1. **Clone the repository**
@@ -252,26 +257,5 @@ Place your blood test PDF files in the `data/` directory for testing.
 4. Add tests
 5. Submit a pull request
 
-## 📄 **License**
 
-This project is licensed under the MIT License.
-
-## ⚠️ **Disclaimer**
-
-This application is for educational and demonstration purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals for medical decisions.
-
-## 🌐 Deploying to GitHub
-
-### 1. Create a GitHub repository
-- Go to https://github.com/new
-- Name your repo (e.g., `blood-test-analyser-debug`)
-- Do NOT initialize with a README, .gitignore, or license (these are already present)
-
-### 2. Push your code to GitHub
-Replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name:
-
-```bash
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-git branch -M main
-git push -u origin main
 ```
