@@ -77,9 +77,6 @@ A comprehensive blood test analysis system built with CrewAI and FastAPI that ca
 ![image](https://github.com/user-attachments/assets/26ad925e-8a4d-4527-8a11-a05e8bbcac04)
 
 
-![image](https://github.com/user-attachments/assets/2c6e9086-9dec-441a-9f8e-a173ae81f68c)
-
-
 
 ### **Installation**
 
