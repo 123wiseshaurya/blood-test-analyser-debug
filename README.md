@@ -74,7 +74,9 @@ A comprehensive blood test analysis system built with CrewAI and FastAPI that ca
 
  ### Screenshots
  
+![Uploading image.png…]()
 
+![Uploading image.png…]()
 
 
 ### **Installation**
@@ -229,25 +231,7 @@ curl -X POST "http://localhost:8000/analyze" \
 ### **Sample Data**
 Place your blood test PDF files in the `data/` directory for testing.
 
-## 🔮 **Future Enhancements**
 
-### **Bonus Features (Not Implemented)**
-
-1. **Queue Worker Model**
-   - Redis/Celery integration for concurrent processing
-   - Background job processing
-   - Scalability improvements
-
-2. **Database Integration**
-   - Store analysis results
-   - User management
-   - Historical data tracking
-
-3. **Advanced Features**
-   - Multiple report comparison
-   - Trend analysis
-   - Export functionality
-   - Email notifications
 
 ## 🤝 **Contributing**
 
