@@ -1,4 +1,4 @@
-# Blood Test Report Analyser - Debugged & Fixed
+![image](https://github.com/user-attachments/assets/3f143714-b66f-46a2-9a2a-4dad0579afbf)![image](https://github.com/user-attachments/assets/fa31e391-0642-4dae-b97b-db41290210e6)# Blood Test Report Analyser - Debugged & Fixed
 
 A comprehensive blood test analysis system built with CrewAI and FastAPI that can read PDF blood test reports and provide professional medical analysis.
 
@@ -74,9 +74,11 @@ A comprehensive blood test analysis system built with CrewAI and FastAPI that ca
 
  ### Screenshots
  
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/26ad925e-8a4d-4527-8a11-a05e8bbcac04)
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/2c6e9086-9dec-441a-9f8e-a173ae81f68c)
+
 
 
 ### **Installation**
